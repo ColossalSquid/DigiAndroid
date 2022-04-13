@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/activity_login.xml" value="0.29528985507246375" />
         <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/activity_main.xml" value="0.29528985507246375" />
+        <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/category_row.xml" value="0.26875" />
         <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/fragment_category.xml" value="0.29528985507246375" />
         <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/fragment_home.xml" value="0.29528985507246375" />
         <entry key="..\:/Users/user/Documents/Developer/android_learn/DigiAndroid/app/src/main/res/layout/fragment_profile.xml" value="0.29528985507246375" />

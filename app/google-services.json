@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246182467855",
+    "project_id": "digiandroid-5ed23",
+    "storage_bucket": "digiandroid-5ed23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246182467855:android:f489c4f959dd13fd53867a",
+        "android_client_info": {
+          "package_name": "com.example.digiandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246182467855-cu5rvgbi1h115d76m19r8b5ak11vuo8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UZudU_Ljs8LbJ8mP6YgQCbXJkNr-Mi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246182467855-cu5rvgbi1h115d76m19r8b5ak11vuo8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
